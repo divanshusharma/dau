@@ -1,2 +1,2 @@
 # dau
-first repo trial 1
+first repository trial 1
